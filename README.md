@@ -1,3 +1,6 @@
+Solution Video - [download](https://drive.google.com/file/d/14XFOsiOqbeE0Hh9YAyN4pabJKQySS_Ng/view?usp=sharing)
+
+
 ### For reproducing the video, follow the steps below
 
 1) Clone this repository. 
